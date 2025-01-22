@@ -1,16 +1,16 @@
-**更新时间：2021/03/26(完结)**  
-翻译此文时间: 2020.12.21  
+**更新时间：2024/11/26(更新中)**  
+翻译此文时间: 2024.11.1  
 原文地址: [tranek/GASDocumentation](https://github.com/BillEliot/GASDocumentation)  
-翻译地址: [BillEliot/GASDocumentation_Chinese](https://github.com/BillEliot/GASDocumentation_Chinese)  
+翻译地址(UE4.24): [BillEliot/GASDocumentation_Chinese](https://github.com/BillEliot/GASDocumentation_Chinese)  
 反馈: **github/PR** or **eliotwjz@gmail.com**
 
 # GASDocumentation
 
-我使用一个简单的多人游戏模板项目来阐述对Unreal Engine 4中GameplayAbilitySystem(GAS)插件的理解. 这不是官方文档并且这个项目和我自己都不来自Epic Games. 我不能保证该文档的准确性.  
+我使用一个简单的多人游戏模板项目来阐述对Unreal Engine 5中GameplayAbilitySystem(GAS)插件的理解. 这不是官方文档, 并且这个项目和我自己都不来自Epic Games. 我不能保证该文档的准确性.  
 
 该文档的目的是阐明GAS中的主要概念和相关类, 并结合我的经验提供一些附加说明. 在社区用户中, 已经形成了大量有关GAS的"部落知识", 而我致力于将我了解的全部在这里分享.  
 
-样例项目和文档目前基于`Unreal Engine 4.26`. 该文档拥有可用于旧版本Unreal Engine的分支, 但是它们不再受支持, 并且可能存在bug和过时信息.  
+样例项目和文档目前基于`Unreal Engine 5.3`. 该文档拥有可用于旧版本Unreal Engine的分支, 但是它们不再受支持, 并且可能存在bug和过时信息.  
 [GASShooter](https://github.com/tranek/GASShooter)是该样例项目的姐妹项目, 其演示了基于多人FPS/TPS的高阶GAS技术.  
 
 最好的文档永远是该插件的代码.  
